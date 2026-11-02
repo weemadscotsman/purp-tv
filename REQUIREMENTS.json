@@ -1,0 +1,926 @@
+{
+  "registerLastReconciled": "2026-10-31",
+  "note": "Historical implementation statuses are retained. This release does not establish complete acceptance of all 184 requirements. Detailed requirement text stays in the project ledger; this public summary includes IDs and acceptance status only.",
+  "requirements": [
+    {
+      "id": "F001",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F002",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F003",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F004",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F005",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F006",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F007",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F008",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F009",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F010",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F011",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F012",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F013",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F014",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F015",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F016",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F017",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F018",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F019",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F020",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F021",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F022",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F023",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F024",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F025",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F026",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F027",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F028",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F029",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F030",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F031",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F032",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F033",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F034",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F035",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F036",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F037",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F038",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F039",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F040",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F041",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F042",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F043",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F044",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F045",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F046",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F047",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F048",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F049",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F050",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F051",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F052",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F053",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F054",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F055",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F056",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F057",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F058",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F059",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F060",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F061",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F062",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F063",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F064",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F065",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F066",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F067",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F068",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F069",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F070",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F071",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F072",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F073",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F074",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F075",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F076",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F077",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F078",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F079",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F080",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F081",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F082",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F083",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F084",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F085",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F086",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F087",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F088",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F089",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F090",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F091",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F092",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F093",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F094",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F095",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F096",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F097",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F098",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F099",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F100",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F101",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F102",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F103",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F104",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F105",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F106",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F107",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F108",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F109",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F110",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F111",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F112",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F113",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F114",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F115",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F116",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F117",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F118",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F119",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F120",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F121",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F122",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F123",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F124",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F125",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F126",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F127",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F128",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F129",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F130",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F131",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F132",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F133",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F134",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F135",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F136",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F137",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F138",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F139",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F140",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F141",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F142",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F143",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F144",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F145",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F146",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F147",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F148",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F149",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F150",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F151",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F152",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F153",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F154",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F155",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F156",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F157",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F158",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F159",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F160",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F161",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F162",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F163",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F164",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F165",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F166",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F167",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F168",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F169",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F170",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F171",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F172",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F173",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F174",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F175",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F176",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F177",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F178",
+      "implementation": "implemented unverified",
+      "acceptance": "open"
+    },
+    {
+      "id": "F179",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F180",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F181",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F182",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F183",
+      "implementation": "partial",
+      "acceptance": "open"
+    },
+    {
+      "id": "F184",
+      "implementation": "partial",
+      "acceptance": "open"
+    }
+  ]
+}

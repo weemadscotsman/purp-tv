@@ -13,14 +13,14 @@ you own.
 
 | | |
 |---|---|
-| **The TV app** | [PurpTV-public.apk](https://github.com/weemadscotsman/purp-tv/releases/download/v1.9.88/PurpTV-public.apk) — 276 MB, signed release, build 114 |
-| **The PC app** | [PurpTV-Desktop.exe](https://github.com/weemadscotsman/purp-tv/releases/download/v1.9.88/PurpTV-Desktop.exe) — 36 MB, Windows 10 or 11 |
+| **The TV app** | [PurpTV-public.apk](https://github.com/weemadscotsman/purp-tv/releases/download/v1.9.150/PurpTV-public.apk) — 297.5 MB, Android-signed release, build 176 |
+| **The PC app** | [PurpTV-Desktop.exe](https://github.com/weemadscotsman/purp-tv/releases/download/v1.9.150/PurpTV-Desktop.exe) — 69.6 MB, Windows 10 or 11; unsigned Windows executable |
 
 ### SHA-256
 
 ```
-a19cd1ae44ff59a0a09b87c021e5ea80c4b4b0446b3287f2fe61861195dc25b6  PurpTV-public.apk
-d771d4c2a08c54cf2422558b51f0d22ee12a23df150b46803a09251d9554cf49  PurpTV-Desktop.exe
+ccccecf2012305327bd8135312a5a5c0c4eb9465283234248d4a3a01885392f3  PurpTV-public.apk
+e585bf522df20fd0714d68ecc568f7c9dab0a9066b72af04985b51afe2ef9d7f  PurpTV-Desktop.exe
 ```
 
 ## Getting it running
@@ -28,13 +28,12 @@ d771d4c2a08c54cf2422558b51f0d22ee12a23df150b46803a09251d9554cf49  PurpTV-Desktop
 1. **On the PC** — run Purp LINK, press *Auto-find game folders* or *Add folder…* to point at
    your own games, then *Start serving*.
 2. **On the box** — install the APK. On a Fire TV: Settings → My Fire TV → Developer options →
-   unknown sources, then open the file. Or side-load it with `adb install PurpTV-public.apk`.
+   unknown sources, then open the file. Or side-load it with `adb install -r PurpTV-public.apk`.
 3. **Same Wi-Fi** — the television finds the PC on your home network by itself. No pairing code,
    no account.
 4. **Play** — open Games, pick a console, pick a game. It downloads from your PC and runs.
 
-Dreamcast, N64, PC Engine and Neo Geo need your own BIOS in the game folder. Everything else
-runs as it is.
+Some systems and games require your own compatible BIOS files. Compatibility varies by device and emulator.
 
 ## How it is built
 
@@ -53,3 +52,9 @@ from the PC you point at your own games from, over your own network.
 
 Not affiliated with Amazon, Google or any console maker. Fire TV and Android TV are trademarks
 of their owners. A DreamForge project · Edinburgh.
+
+## Build 176 verification and limitations
+
+317 regression tests run: 315 passed, 2 skipped; 3 additional privacy tests passed. Mixed-HDR/4K Watch Together remains under hardware acceptance. 3D Cinema is not included. All 184 requirements remain tracked; this is not a claim of complete product acceptance.
+
+[Release notes and exact checksums](https://github.com/weemadscotsman/purp-tv/releases/tag/v1.9.150)
