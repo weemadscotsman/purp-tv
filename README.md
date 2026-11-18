@@ -1,27 +1,18 @@
-# Purp TV
+# PURP TV
 
-**YOUR TELLY. TAKEN BACK.**
+Play your games, watch your films and tune into your own channels on the big screen. Browse your collection by cover, find a title, or pick up a game together. PURP LINK brings the Windows folders you choose into the app over your home network.
 
-A home screen for Fire TV, Firestick and Android TV. Your games on one endless shelf. Two
-tellies playing the same game with no codes. Arcade CRT glow on every console. And a wee
-reaper who naps on your buttons.
+PURP TV is free. Add your own games, media and any system files your emulators require.
 
-The launcher is free. It ships with no games, no BIOS files and no films — it plays the ones
-you own.
+## Download
 
-## Get it
+| Device | Package |
+| --- | --- |
+| Fire TV, Android TV and compatible Android devices | [Android APK](https://github.com/weemadscotsman/purp-tv/releases/latest/download/PurpTV-public.apk) |
+| Meta Quest | [Quest APK](https://github.com/weemadscotsman/purp-tv/releases/latest/download/PurpTV-Quest.apk) |
+| Windows 10 or 11 | [PURP LINK EXE](https://github.com/weemadscotsman/purp-tv/releases/latest/download/PurpTV-Desktop.exe) |
 
-| | |
-|---|---|
-| **The TV app** | [PurpTV-public.apk](https://github.com/weemadscotsman/purp-tv/releases/download/v1.9.150/PurpTV-public.apk) — 297.5 MB, Android-signed release, build 176 |
-| **The PC app** | [PurpTV-Desktop.exe](https://github.com/weemadscotsman/purp-tv/releases/download/v1.9.150/PurpTV-Desktop.exe) — 69.6 MB, Windows 10 or 11; unsigned Windows executable |
-
-### SHA-256
-
-```
-ccccecf2012305327bd8135312a5a5c0c4eb9465283234248d4a3a01885392f3  PurpTV-public.apk
-e585bf522df20fd0714d68ecc568f7c9dab0a9066b72af04985b51afe2ef9d7f  PurpTV-Desktop.exe
-```
+See the [latest public release](https://github.com/weemadscotsman/purp-tv/releases/latest) for requirements, changes and SHA-256 checksums. Explore the app and setup on the [PURP TV website](https://purp-tv.netlify.app/).
 
 ## Getting it running
 
@@ -53,7 +44,7 @@ from the PC you point at your own games from, over your own network.
 Not affiliated with Amazon, Google or any console maker. Fire TV and Android TV are trademarks
 of their owners. A DreamForge project · Edinburgh.
 
-## Build 176 verification and limitations
+## Historical verification for build 176
 
 317 regression tests run: 315 passed, 2 skipped; 3 additional privacy tests passed. Mixed-HDR/4K Watch Together remains under hardware acceptance. 3D Cinema is not included. All 184 requirements remain tracked; this is not a claim of complete product acceptance.
 
